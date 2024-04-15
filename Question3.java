@@ -15,7 +15,7 @@ public class Question3
     int inte = in.nextDouble();
 
     system.out.println(inte*inte);
-    in.close()
+    in.close();
     
   }
 }

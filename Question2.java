@@ -11,7 +11,7 @@ public class Question2
      */
      
     Scanner in = new Scanner(System.in);
-    System.out.println("Enter your height in meters: ")
+    System.out.println("Enter your height in meters: ");
     double height = in.nextDouble();
 
     System.out.print("Enter your weight in kilograms: ");

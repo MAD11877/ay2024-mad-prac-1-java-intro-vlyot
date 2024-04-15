@@ -14,7 +14,7 @@ public class Question3
     System.out.println("Enter an integer: ");
     int inte = in.nextDouble();
 
-    system.out.println(inte*inte);
+    System.out.println(inte*inte);
     in.close();
     
   }

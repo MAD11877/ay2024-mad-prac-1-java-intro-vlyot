@@ -11,6 +11,10 @@ public class Question3
      */
      
     Scanner in = new Scanner(System.in);
+    int inte = in.nextInt();
+
+    System.out.println(inte*inte);
+    in.close();
     
   }
 }

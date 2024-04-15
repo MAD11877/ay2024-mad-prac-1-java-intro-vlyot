@@ -12,7 +12,7 @@ public class Question3
      
     Scanner in = new Scanner(System.in);
     System.out.println("Enter an integer: ");
-    int inte = in.nextDouble();
+    int inte = in.nextInt();
 
     System.out.println(inte*inte);
     in.close();
